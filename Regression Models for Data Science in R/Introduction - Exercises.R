@@ -20,6 +20,7 @@ mean(x)
 
 
 # Question 2
+
 # Reconsider the previous question i.e finding mu. 
 # Suppose that weights were given, w = c(2, 2, 1, 1) 
 # so that we wanted to minimize sum(w * (x - mu) ^ 2) for mu. 
